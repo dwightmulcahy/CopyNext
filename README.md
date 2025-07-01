@@ -31,6 +31,6 @@ This DokuWiki plugin provides functionality to copy a "journal" page to a new pa
 
 ## License
 
-This plugin is released under the MIT License. (You may choose a different license, e.g., GPL)
+This plugin is released under the MIT License.
 
 
