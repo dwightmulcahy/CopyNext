@@ -23,6 +23,12 @@ This DokuWiki plugin provides functionality to copy a "journal" page to a new pa
 3.  The plugin will attempt to create a new page with the ID `journal:day:YYYY:MM:DD` for the date seven days from the current page.
 4.  If successful, you will be redirected to the new page in edit mode, with its content copied and filtered, and the title updated.
 
+### Optional button
+
+If you have the Wrap Plugin installed you can create a button that will do the above for you.
+
+`<wrap button>[[?copynext=1|Copy to Next Week]]</wrap>`
+
 ## Notes
 
 * This plugin is specifically designed for the `journal:day:YYYY:MM:DD` page ID format.
